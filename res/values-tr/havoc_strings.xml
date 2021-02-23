@@ -255,6 +255,9 @@
     <string name="animation_duration_default">Varsayılan</string>
     <string name="disable_transition_animations_title">Geçiş animasyonları</string>
     <string name="disable_transition_animations_summary">Tüm sistem animasyonlarını etkinleştir</string>
+
+    <!-- Battery temp -->
+    <string name="battery_temp_title">Pil sıcaklığı</string>
 	
     <!-- Tiles animation style  -->
     <string name="qs_tile_animation_category">Hızlı ayarlar karesi animasyonları</string>
@@ -1642,4 +1645,22 @@
     <!-- Notch: Full screen apps -->
     <string name="display_cutout_force_fullscreen_title">Tam ekran uygulamalar</string>
     <string name="display_cutout_force_fullscreen_summary">Uygulamaları çentik alanını yoksaymaya zorla</string>
+	
+    <!-- Smart charging -->
+    <string name="smart_charging_title">Akıllı şarj</string>
+    <string name="smart_charging_summary">Maksimum şarj seviyesini uygula</string>
+    <string name="smart_charging_switch_title">Akıllı şarjı kullan</string>
+    <string name="smart_charging_level_title">Tetik seviyesini durdur</string>
+    <string name="smart_charging_resume_level_title">Tetik seviyesini başlat</string>
+    <string name="smart_charging_reset_stats_title">Pil istatistiklerini sıfırla</string>
+    <string name="smart_charging_reset_stats_summary">Kullanıcı tanımlı şarj seviyesine ulaştıktan sonra pil istatistiklerini sıfırlayın</string>
+    <string name="smart_charging_footer">Akıllı Şarj, pilinizin ömrünü uzatmak için maksimum şarj düzeyini ayarlamanıza olanak tanır</string>
+
+    <!-- Battery estimates -->
+    <string name="battery_estimates_title">Pil tahminini göster</string>
+    <string name="battery_estimates_summary">Pil tahminini QS panelde göster</string>
+
+    <!-- Hotspot extras -->
+    <string name="tethering_allow_vpn_upstreams_title">Allow clients to use VPNs</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Permit hotspot clients to use this device\u2019s VPN connections for upstream connectivity</string>
 </resources>
