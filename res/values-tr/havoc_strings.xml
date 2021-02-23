@@ -224,6 +224,33 @@
     <string name="listview_fold">Katla</string>
     <string name="listview_translate_left">Çevir (soldan)</string>
     <string name="listview_translate_right">Çevir (sağdan)</string>
+
+    <!-- Gaming mode -->
+    <string name="gaming_mode_title">Oyun modu</string>
+    <string name="gaming_mode_summary">Oyun modu tercihlerini özelleştirin</string>
+    <string name="gaming_mode_app_picker_title">Bu uygulamalar için oyun modunu otomatik olarak aç</string>
+    <string name="add_gaming_mode_package_title">Oyun modu için uygulamalar ekleyin</string>
+    <string name="add_gaming_mode_package_summary">Oyun modu, bu uygulamalar açıldığında otomatik olarak açılır ve kapatıldığında kapanır</string>
+    <string name="gaming_mode_headsup_title">Bildirimleri engelle</string>
+    <string name="gaming_mode_headsup_summary">Aramalar dışındaki tüm uyarı mesajlarını engelle</string>
+    <string name="gaming_mode_hardware_keys_title">Butonları kilitle</string>
+    <string name="gaming_mode_hardware_keys_summary">Oyun modu açıkken donanım tuşlarını devre dışı bırakın</string>
+    <string name="gaming_mode_gestures_title">Hareketleri kapat</string>
+    <string name="gaming_mode_gestures_summary">Oyun modu açıkken hareketle gezinmeyi devre dışı bırakın</string>
+    <string name="gaming_mode_brightness_title">Uyarlanan parlaklığı kapat</string>
+    <string name="gaming_mode_brightness_summary">Oyun modu açıldığında ekran parlaklığını kilitle</string>
+    <string name="gaming_mode_ringer_title">Oyun modunda zil sesine al</string>
+    <string name="gaming_mode_ringer_off_title">Değiştirme</string>
+    <string name="gaming_mode_ringer_vibrate_title">Titreşim</string>
+    <string name="gaming_mode_ringer_dnd_title">Rahatsız etmeyin</string>
+    <string name="gaming_mode_ringer_silent_title">Sessiz</string>
+    <string name="gaming_mode_notifications_title">Oyun modu göstergesi</string>
+    <string name="gaming_mode_notifications_off_title">Devre dışı</string>
+    <string name="gaming_mode_notifications_notif_title">Bildirimleri göster</string>
+    <string name="gaming_mode_notifications_toast_title">Tost animasyonunu göster</string>
+    <string name="gaming_mode_notifications_all_title">Bildirimleri ve Tost animasyonunu göster</string>
+    <string name="gaming_mode_dynamic_title">Dinamik mod</string>
+    <string name="gaming_mode_dynamic_summary">Oyun uygulamalarını otomatik olarak algılamayı ve eklemeyi deneyin</string>	
 	
     <!-- ListView interpolator -->
     <string name="listview_interpolator_title">Liste görünümü animasyonu</string>
